@@ -1,0 +1,21 @@
+# ninja log v5
+69	3343	7909866706148808	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	289bea328df183a8
+203	5104	7909866723932744	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f917dd08400d4ffb
+0	3441	7909866706743639	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e697ae558e37431c
+35	3549	7909866708130132	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1a026fcf941de989
+170	3516	7909866707330819	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8cb7c5a611a61b03
+49	4258	7909866715460876	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4d1826cd15f88e59
+134	5253	7909866725562674	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	115a5ce9e97f66a6
+20	5340	7909866726512659	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f21289cb4f881d8b
+5340	5522	7909866728441724	D:/Projects/CGD/Bounce/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2724i1z5/obj/arm64-v8a/libgame.so	3c8d86376cdab619
+138	1274	7909882921755439	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	b5e84578a439d548
+1276	1698	7909882926378817	D:/Projects/CGD/Bounce/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2724i1z5/obj/arm64-v8a/libswappywrapper.so	e452f1677f459a5a
+46	2762	7909882936254488	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e697ae558e37431c
+89	2968	7909882939203685	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	289bea328df183a8
+7	3010	7909882939462185	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4d1826cd15f88e59
+105	3021	7909882939759246	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f917dd08400d4ffb
+32	3106	7909882940629173	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1a026fcf941de989
+59	3167	7909882941337950	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8cb7c5a611a61b03
+73	3272	7909882942410806	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	115a5ce9e97f66a6
+19	3431	7909882944068858	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f21289cb4f881d8b
+3432	3563	7909882945459981	D:/Projects/CGD/Bounce/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2724i1z5/obj/arm64-v8a/libgame.so	3c8d86376cdab619

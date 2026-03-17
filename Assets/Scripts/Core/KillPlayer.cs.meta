@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0ffc9bf56aa8b664bb3369dcee5a9f02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathSound: {fileID: 8300000, guid: 0c7c942efd2a10e4d8c637f37adf121a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
